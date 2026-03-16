@@ -38,6 +38,8 @@ AI-powered enterprise chatbot that helps employees get information about **HR po
 ---
 
 # System Architecture
+
+```
 Users
 |
 Frontend (Streamlit)
@@ -50,13 +52,14 @@ Vector Database (FAISS)
 |
 Knowledge Base (HR / IT / Events Data)
 
----
+```
 
 
 ---
 
 # Project Structure
 
+```
 enterprise-chatbot
 │
 ├── app.py
@@ -69,5 +72,7 @@ enterprise-chatbot
 │
 ├── requirements.txt
 ├── README.md
+
+```
 
 
